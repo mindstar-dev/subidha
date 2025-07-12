@@ -73,7 +73,7 @@ export default function Home() {
           <h2 className="text-5xl font-bold mb-4">About Us</h2>
           <p className="text-2xl text-gray-700">
             Subidha is a smart and simple solution for all your home service
-            needs, proudly brought to you by SR Enterprise. Whether it's
+            needs, proudly brought to you by SR Enterprise. Whether it&apos;s
             plumbing, electrical repairs, appliance servicing, home cleaning, or
             pest control – Subidha connects you with verified professionals at
             your convenience.
