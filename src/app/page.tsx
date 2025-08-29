@@ -13,6 +13,7 @@ import {
   logo_white,
   vacuum,
 } from "../../public";
+import PrivacyPolicy from "./components/PrivacyPolic";
 
 export default function Home() {
   return (
@@ -145,6 +146,7 @@ export default function Home() {
           </div>
         </div>
       </section>
+      <PrivacyPolicy/>
 
       {/* Footer */}
       <footer
